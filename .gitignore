@@ -1,0 +1,17 @@
+# Binaries
+bin/
+
+# Local toolchain and caches
+tools/
+.gopath/
+.gocache/
+
+# Supervisor runtime files and logs
+logs/
+supervisord.log
+supervisord.pid
+supervisor.sock
+
+# OS/editor
+.DS_Store
+*.swp
